@@ -10,11 +10,6 @@ navButton.addEventListener('click', () => {
 
 window.onload = () => {
     setHeight();
-    // ocultar o mostrar listas
-}
-
-window.onresize = () => {
-    // ocultar o mostrar liistas
 }
 
 function setHeight(){
