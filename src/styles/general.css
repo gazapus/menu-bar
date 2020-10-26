@@ -21,8 +21,6 @@ body {
 }
 
 .list__item {
-    display: inline;
-    padding: 14pt 14pt 0 14pt;
     transition-duration: 0.5s;
 }
 

@@ -7,6 +7,11 @@
     flex-wrap: wrap;
 }
 
+.list__item {
+    display: inline;
+    padding: 14pt 14pt 0 14pt;
+}
+
 .list__item::after {
     background: rgb(180, 66, 0);
     content: '';
